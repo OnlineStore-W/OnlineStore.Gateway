@@ -11,7 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="service-configs.json" />
+    <None Include="service-configs.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
