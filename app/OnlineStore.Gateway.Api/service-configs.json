@@ -1,0 +1,14 @@
+[
+  //{
+  //  "name": "test",
+  //  "uri": "https://host.docker.internal:7002/api/test/graphql",
+  //  "schemaFileName": "./Schemas/Stitching_test.graphql",
+  //  "ignoreRootTypes": false
+  //},
+  {
+    "name": "authservice",
+    "uri": "http://host.docker.internal:5001/api/auth-service/graphql/",
+    "schemaFileName": "",
+    "ignoreRootTypes": false
+  }
+]

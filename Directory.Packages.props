@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageVersion Include="HotChocolate.AspNetCore" Version="13.9.0" />
+    <PackageVersion Include="HotChocolate.Stitching" Version="13.9.0" />
+  </ItemGroup>
+</Project>
